@@ -1,12 +1,12 @@
 # Hi, I'm Iago Novais 👋
 
-**Full-Stack Developer** with **12+ years of experience** in the tech industry.  
-Specialized in **project and solution leadership**, focused on building **scalable, reliable, and high-performance systems**.
+  **Full-Stack Developer** with **12+ years of experience** in the tech industry.  
+  Specialized in **project and solution leadership**, focused on building **scalable, reliable, and high-performance systems**.
 
 ## 🌐 Website
 
-Portfolio • Career • Experience • Projects  
-👉 https://iagonovais.dev
+  Portfolio • Career • Experience • Projects  
+  👉 https://iagonovais.dev
 
 ## 🛠️ Stack
 
